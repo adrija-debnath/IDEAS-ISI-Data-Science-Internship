@@ -17,8 +17,6 @@ Modeling: Machine learning models used to predict equipment failures or issues.
 Evaluation: Techniques to check how well the models are performing (e.g., accuracy, confusion matrix).
 
 
-Sure! Below is a template for your GitHub README file based on the project details you provided.
-
 Predictive Maintenance Analysis
 Project Type: Data Science Internship
 Institution: IDEAS - Institute of Data Engineering, Analytics, and Science
